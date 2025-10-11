@@ -3,9 +3,9 @@
   <img src="https://komarev.com/ghpvc/?username=rexshimura&label=Profile%20views&color=0e75b6&style=flat" alt="rexshimura" />
 </p>
 <p align="center">
-  💻 <strong>Future Game Developer</strong> & <strong>Frontend Expert</strong><br>
-  🎓 Aspiring to build a career in <strong>game development</strong> and <strong>software engineering</strong>.<br>
-  🛠️ Passionate about <strong>front-end design</strong> and <strong>game mechanics</strong>.
+   <strong>Future Game Developer</strong> & <strong>Frontend Expert</strong><br>
+   Aspiring to build a career in <strong>game development</strong> and <strong>software engineering</strong>.<br>
+   Passionate about <strong>front-end design</strong> and <strong>game mechanics</strong>.
 </p>
 
 <h2>✨ What I’m up to:</h2>
