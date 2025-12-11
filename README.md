@@ -89,16 +89,15 @@
    Prototyping unique solutions to complex problems.
 </p>
 
-<h2 align="center">GitHub Stats</h2>
-
+<h2 align="center">GitHub Stats:</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rexshimura&show_icons=true&locale=en&theme=buefy&hide_border=true" alt="rexshimura" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rexshimura&show_icons=true&locale=en&layout=compact" alt="rexshimura" />
+</p>
+<p align="center">&nbsp;
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rexshimura&show_icons=true&locale=en" alt="rexshimura" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rexshimura&theme=buefy&hide_border=true" alt="rexshimura" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rexshimura&show_icons=true&locale=en&layout=compact&theme=buefy&hide_border=true" alt="rexshimura" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rexshimura&" alt="rexshimura" />
 </p>
 
 <h2 align="center">Connect with me</h2>
