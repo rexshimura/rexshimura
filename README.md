@@ -125,5 +125,5 @@
 
 <h2 align="center">hehe</h2>
 <p align="center">
-  <img src="https://github.com/rexshimura/rexshimura/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+  <img src="https://raw.githubusercontent.com/rexshimura/rexshimura/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </p>
