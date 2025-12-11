@@ -1,9 +1,9 @@
-name: Generate Snake
+name: Generate Animation
 
 on:
   schedule:
-    - cron: "0 */12 * * *"  # Run every 12 hours
-  workflow_dispatch:        # Allow manual run
+    - cron: "0 */12 * * *" # Run every 12 hours
+  workflow_dispatch:       # Allow manual run
 
 jobs:
   build:
@@ -11,16 +11,31 @@ jobs:
     steps:
       - uses: actions/checkout@v2
 
+      # 1. Generate Snake
       - uses: Platane/snk@v3
         id: snake-gif
         with:
-          github_user_name: rexshimura
+          github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
+      # 2. Generate Pacman
+      - name: generate-pacman
+        uses: abozanona/pacman-contribution-graph@main
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          # The tool usually outputs to the root directory, so we move it to dist/ below
+
+      # 3. Move Pacman files to the dist folder (so they get pushed together)
+      - name: Move Pacman to dist
+        run: |
+          mv pacman-contribution-graph.svg dist/ 2>/dev/null || true
+          mv pacman-contribution-graph-dark.svg dist/ 2>/dev/null || true
+
+      # 4. Push everything in 'dist' to the output branch
       - uses: crazy-max/ghaction-github-pages@v2.1.3
         with:
           target_branch: output
