@@ -1,102 +1,116 @@
 <h1 align="center">👾 Hi, I'm Yizaha / Rexshimura!</h1>
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rexshimura&label=Profile%20views&color=0e75b6&style=flat" alt="rexshimura" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0E75B6&center=true&vCenter=true&width=435&lines=React+%26+Laravel+Developer;System+Planner+%26+Architect;AI+%26+NLP+Enthusiast;Future+Mobile+Developer" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/rexshimura">
+    <img src="https://komarev.com/ghpvc/?username=rexshimura&label=Profile%20views&color=0e75b6&style=flat" alt="rexshimura" />
+  </a>
+</p>
+
+<p align="center">
+   I am a <strong>Software Engineer</strong> building <strong>Interactive Web Applications</strong> (Static & Dynamic).<br>
+   I don't just write code; I <strong>architect systems</strong> and transform <strong>innovative ideas</strong> into reality.
+</p>
+
+<br>
+
+<h2 align="center">Architecture & Workflow</h2>
+<p align="center">
+  My expertise extends beyond syntax. I specialize in the <strong>pre-development lifecycle</strong> and <strong>system logic</strong>:
 </p>
 <p align="center">
-   <strong>Future Game Developer</strong> & <strong>Frontend Expert</strong><br>
-   Aspiring to build a career in <strong>game development</strong> and <strong>software engineering</strong>.<br>
-   Passionate about <strong>front-end design</strong> and <strong>game mechanics</strong>.
+ <strong>System Design:</strong> Creating detailed Storyboards, Flowcharts, and ERDs.<br>
+ <strong>Pipeline Management:</strong> Planning project workflows and dynamic routing logic.<br>
+ <strong>Data Prep:</strong> Structuring and preparing datasets for backend integration.<br>
 </p>
 
-<h2>✨ What I’m up to:</h2>
-<ul>
-  <li>🏗️ <strong>Mastering front-end development</strong> with a focus on <strong>UI/UX design</strong></li>
-  <li>🎮 Learning <strong>game development principles</strong> and working on exciting projects</li>
-  <li>🚀 Exploring <strong>JavaScript frameworks</strong> for interactive experiences</li>
-  <li>🌍 Building <strong>modern web applications</strong> with <strong>React</strong> and <strong>HTML/CSS</strong></li>
-</ul>
+<h2 align="center">Tech Stack</h2>
 
-<h2>💼 Tech Stack:</h2>
-<p align="left">
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
-  </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/>
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-  </a>
-  <a href="https://isocpp.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-  </a>
-  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
-  </a>
-  <a href="https://www.lua.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg" alt="lua" width="40" height="40"/>
-  </a>
-  <a href="https://yaml.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/yaml/yaml-icon.svg" alt="yaml" width="40" height="40"/>
-  </a>
-  <a href="https://www.jenkins.io" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>
-  </a>
-  <a href="https://spring.io/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="spring" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://doc.qt.io/qtcreator/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt-designer" width="40" height="40"/>
-  </a>
+<h3 align="center">Main Frameworks & Build Tools</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" alt="Vite"/>
+  <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
+  <img src="https://img.shields.io/badge/inertia-%239553E9.svg?style=for-the-badge&logo=inertia&logoColor=white" alt="Inertia"/>
+  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS"/>
 </p>
 
-<h2>🌱 Currently learning:</h2>
-<ul>
-  <li>🎨 Enhancing <strong>front-end skills</strong> with advanced design principles</li>
-  <li>📈 Diving deeper into <strong>game development</strong> and <strong>JavaScript</strong> game frameworks</li>
-</ul>
-
-<h2>🤝 Connect with me:</h2>
-<p align="left">
-  <a href="https://www.facebook.com/profile.php?id=61553880391633" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" style="vertical-align: middle; margin-right: 5px;" />
-  </a>
-  <a href="https://www.youtube.com/watch?v=xvFZjo5PgG0" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" style="vertical-align: middle; margin-right: 5px;" />
-  </a>
-  <a href="https://www.youtube.com/watch?v=xvFZjo5PgG0" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" style="vertical-align: middle; margin-right: 5px;" />
-  </a>
+<h3 align="center">Languages</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
+  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
+  <img src="https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white" alt="Lua"/>
 </p>
 
-<h2>📊 GitHub Stats:</h2>
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rexshimura&show_icons=true&locale=en&layout=compact" alt="rexshimura" />
+<h3 align="center">Backend, Cloud & Tools</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/axios-%235A29E4.svg?style=for-the-badge&logo=axios&logoColor=white" alt="Axios"/>
+  <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" alt="Firebase"/>
+  <img src="https://img.shields.io/badge/Cloud_Firestore-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black" alt="Firestore"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
+  <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
+  <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
 </p>
-<p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rexshimura&show_icons=true&locale=en" alt="rexshimura" />
+
+<h3 align="center">Database & GUI</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres"/>
+  <img src="https://img.shields.io/badge/Qt-(PyQt)-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white" alt="PyQt"/>
+  <img src="https://img.shields.io/badge/tkinter-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Tkinter"/>
+  <img src="https://img.shields.io/badge/xml-%23000.svg?style=for-the-badge&logo=xml&logoColor=white" alt="XML"/>
 </p>
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rexshimura&" alt="rexshimura" />
+
+<h2 align="center">Currently Exploring</h2>
+<p align="center">
+   I am constantly expanding my horizons in <strong>Emerging Tech</strong> and <strong>Native Development</strong>:
+</p>
+<p align="center">
+   <img src="https://img.shields.io/badge/AI_Learning-Tokenization_&_LLMs-FF6F00?style=flat-square&logo=openai&logoColor=white" /><br>
+   Studying NLP, LLMs, and Tokenization processes.
+</p>
+<p align="center">
+   <img src="https://img.shields.io/badge/Mobile_Dev-Native_Android_&_iOS-3DDC84?style=flat-square&logo=android&logoColor=white" /><br>
+   Planning to master Native Android/iOS development.
+</p>
+<p align="center">
+   <img src="https://img.shields.io/badge/Innovation-Prototyping_Solutions-9C27B0?style=flat-square&logo=spark&logoColor=white" /><br>
+   Prototyping unique solutions to complex problems.
+</p>
+
+<h2 align="center">GitHub Stats</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rexshimura&show_icons=true&locale=en&theme=buefy&hide_border=true" alt="rexshimura" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rexshimura&theme=buefy&hide_border=true" alt="rexshimura" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rexshimura&show_icons=true&locale=en&layout=compact&theme=buefy&hide_border=true" alt="rexshimura" />
+</p>
+
+<h2 align="center">Connect with me</h2>
+
+<p align="center">
+  <a href="https://www.facebook.com/jp.mahilom.2024/" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook"/>
+  </a>
+  <a href="https://www.instagram.com/rexshimura/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://discord.com" title="User: .yzaha | ID: 660041882927366157">
+    <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt=".yzaha"/>
+  </a>
 </p>
