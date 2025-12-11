@@ -90,14 +90,23 @@
 </p>
 
 <h2 align="center">GitHub Stats:</h2>
+
 <p align="center">
+
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rexshimura&show_icons=true&locale=en&layout=compact" alt="rexshimura" />
+
 </p>
+
 <p align="center">&nbsp;
+
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=rexshimura&show_icons=true&locale=en" alt="rexshimura" />
+
 </p>
+
 <p align="center">
+
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rexshimura&" alt="rexshimura" />
+
 </p>
 
 <h2 align="center">Connect with me</h2>
@@ -112,4 +121,9 @@
   <a href="https://discord.com" title="User: .yzaha | ID: 660041882927366157">
     <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt=".yzaha"/>
   </a>
+</p>
+
+<h2 align="center">hehe</h2>
+<p align="center">
+  <img src="https://github.com/rexshimura/rexshimura/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </p>
