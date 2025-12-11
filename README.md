@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://github.com/rexshimura">
+    <img src="https://komarev.com/ghpvc/?username=rexshimura&label=Profile%20views&color=0e75b6&style=flat" alt="rexshimura" />
+  </a>
+</p>
+
 <h1 align="center">👾 Hi, I'm Yizaha / Rexshimura!</h1>
 
 <p align="center">
@@ -5,110 +11,89 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/rexshimura">
-    <img src="https://komarev.com/ghpvc/?username=rexshimura&label=Profile%20views&color=0e75b6&style=flat" alt="rexshimura" />
-  </a>
-</p>
-
-<p align="center">
    I am a <strong>Software Engineer</strong> building <strong>Interactive Web Applications</strong> (Static & Dynamic).<br>
    I don't just write code; I <strong>architect systems</strong> and transform <strong>innovative ideas</strong> into reality.
 </p>
-
+<br>
 <br>
 
-<h2 align="center">Architecture & Workflow</h2>
-<p align="center">
+<h2 align="left">Architecture & Workflow</h2>
+<p align="lefy">
   My expertise extends beyond syntax. I specialize in the <strong>pre-development lifecycle</strong> and <strong>system logic</strong>:
 </p>
-<p align="center">
+<p align="left">
  <strong>System Design:</strong> Creating detailed Storyboards, Flowcharts, and ERDs.<br>
  <strong>Pipeline Management:</strong> Planning project workflows and dynamic routing logic.<br>
  <strong>Data Prep:</strong> Structuring and preparing datasets for backend integration.<br>
 </p>
+<br>
+<h2 align="left">Tech Stack</h2>
 
-<h2 align="center">Tech Stack</h2>
-
-<h3 align="center">Main Frameworks & Build Tools</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
-  <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" alt="Vite"/>
-  <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
-  <img src="https://img.shields.io/badge/inertia-%239553E9.svg?style=for-the-badge&logo=inertia&logoColor=white" alt="Inertia"/>
-  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS"/>
+<h3 align="left">Main Frameworks & Build Tools</h3>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,nextjs,vite,laravel,tailwind" alt="Frameworks & Build Tools" />
+  </a>
 </p>
 
-<h3 align="center">Languages</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
-  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
-  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
-  <img src="https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white" alt="Lua"/>
+<h3 align="left">Languages</h3>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,php,java,py,c,cpp,cs,lua" alt="Languages" />
+  </a>
 </p>
 
-<h3 align="center">Backend, Cloud & Tools</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/axios-%235A29E4.svg?style=for-the-badge&logo=axios&logoColor=white" alt="Axios"/>
-  <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" alt="Firebase"/>
-  <img src="https://img.shields.io/badge/Cloud_Firestore-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black" alt="Firestore"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
-  <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
-  <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
+<h3 align="left">Backend, Cloud</h3>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,firebase,vercel,postman,flask,net,django" alt="Backend, Cloud & Tools" />
+  </a>
 </p>
 
-<h3 align="center">Database & GUI</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres"/>
-  <img src="https://img.shields.io/badge/Qt-(PyQt)-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white" alt="PyQt"/>
-  <img src="https://img.shields.io/badge/tkinter-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Tkinter"/>
-  <img src="https://img.shields.io/badge/xml-%23000.svg?style=for-the-badge&logo=xml&logoColor=white" alt="XML"/>
+<h3 align="left">Tools</h3>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=notion,github,git,discord,ps,ai" alt="Backend, Cloud & Tools" />
+  </a>
 </p>
 
-<h2 align="center">Currently Exploring</h2>
-<p align="center">
+<h3 align="left">Database & GUI</h3>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,postgres,qt,figma,bootstrap" alt="Database & GUI" />
+  </a>
+</p>
+<br>
+
+<h2 align="right">Currently Exploring</h2>
+<p align="right">
    I am constantly expanding my horizons in <strong>Emerging Tech</strong> and <strong>Native Development</strong>:
 </p>
-<p align="center">
+<p align="right">
    <img src="https://img.shields.io/badge/AI_Learning-Tokenization_&_LLMs-FF6F00?style=flat-square&logo=openai&logoColor=white" /><br>
    Studying NLP, LLMs, and Tokenization processes.
 </p>
-<p align="center">
+<p align="right">
    <img src="https://img.shields.io/badge/Mobile_Dev-Native_Android_&_iOS-3DDC84?style=flat-square&logo=android&logoColor=white" /><br>
    Planning to master Native Android/iOS development.
 </p>
-<p align="center">
+<p align="right">
    <img src="https://img.shields.io/badge/Innovation-Prototyping_Solutions-9C27B0?style=flat-square&logo=spark&logoColor=white" /><br>
    Prototyping unique solutions to complex problems.
 </p>
-
+<br>
+<br>
 <h2 align="center">GitHub Stats:</h2>
-
 <p align="center">
-
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rexshimura&show_icons=true&locale=en&layout=compact" alt="rexshimura" />
-
 </p>
-
 <p align="center">&nbsp;
-
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=rexshimura&show_icons=true&locale=en" alt="rexshimura" />
-
 </p>
-
 <p align="center">
-
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rexshimura&" alt="rexshimura" />
-
 </p>
-
+<br>
 <h2 align="center">Connect with me</h2>
 
 <p align="center">
