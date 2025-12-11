@@ -53,7 +53,7 @@
 <h3 align="left">Tools</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=notion,github,git,discord,ps,ai" alt="Backend, Cloud & Tools" />
+    <img src="https://skillicons.dev/icons?i=notion,vscode,github,git,discord,ps,ai" alt="Backend, Cloud & Tools" />
   </a>
 </p>
 
