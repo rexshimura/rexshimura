@@ -123,7 +123,7 @@
   </a>
 </p>
 
-<h2 align="center">hehe</h2>
+<br />
 <p align="center">
   <img src="https://raw.githubusercontent.com/rexshimura/rexshimura/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </p>
