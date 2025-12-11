@@ -11,15 +11,15 @@
 </p>
 
 <p align="center">
-   I am a <strong>Software Engineer</strong> building <strong>Interactive Web Applications</strong> (Static & Dynamic).<br>
-   I don't just write code; I <strong>architect systems</strong> and transform <strong>innovative ideas</strong> into reality.
+   I am a <strong>Software Engineer</strong> building <strong>Interactive Web Applications</strong><br>
+   I don't just write code; I <strong>architect systems</strong> 
 </p>
 <br>
 <br>
 
 <h2 align="left">Architecture & Workflow</h2>
 <p align="lefy">
-  My expertise extends beyond syntax. I specialize in the <strong>pre-development lifecycle</strong> and <strong>system logic</strong>:
+ I specialize in the <strong>pre-development lifecycle</strong> and <strong>system logic</strong>:
 </p>
 <p align="left">
  <strong>System Design:</strong> Creating detailed Storyboards, Flowcharts, and ERDs.<br>
