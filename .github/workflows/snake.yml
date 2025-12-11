@@ -1,25 +1,16 @@
 name: Generate Snake
 
 on:
-  # run automatically every 12 hours
   schedule:
-    - cron: "0 */12 * * *"
-  
-  # allows to manually run the job at any time
-  workflow_dispatch:
-  
-  # run on every push on the master branch
-  push:
-    branches:
-    - master
-    - main
+    - cron: "0 */12 * * *"  # Run every 12 hours
+  workflow_dispatch:        # Allow manual run
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      
+
       - uses: Platane/snk@v3
         id: snake-gif
         with:
