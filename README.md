@@ -11,8 +11,8 @@
 </p>
 
 <p align="center">
-   I am a <strong>Software Engineer</strong> building <strong>Interactive Web Applications</strong><br>
-   I don't just write code; I <strong>architect systems</strong> 
+   I am a <strong>Full Stack Developer & Software Engineer</strong> building <strong>Interactive Websites, Platforms and Web Applications</strong><br>
+   I don't just write code; I <strong>Architect Systems</strong> 
 </p>
 <br>
 <br>
