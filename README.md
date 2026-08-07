@@ -18,7 +18,7 @@
 <br>
 
 <h2 align="left">Architecture & Workflow</h2>
-<p align="lefy">
+<p align="left">
  I specialize in the <strong>pre-development lifecycle</strong> and <strong>system logic</strong>:
 </p>
 <p align="left">
@@ -43,24 +43,24 @@
   </a>
 </p>
 
-<h3 align="left">Backend, Cloud</h3>
+<h3 align="left">Backend & Cloud</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,firebase,vercel,postman,flask,net,django" alt="Backend, Cloud & Tools" />
-  </a>
-</p>
-
-<h3 align="left">Tools</h3>
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=notion,vscode,github,git,discord,ps,ai" alt="Backend, Cloud & Tools" />
+    <img src="https://skillicons.dev/icons?i=nodejs,vercel,postman,flask,net,django" alt="Backend & Cloud" />
   </a>
 </p>
 
 <h3 align="left">Database & GUI</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,postgres,qt,figma,bootstrap" alt="Database & GUI" />
+    <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase,qt,figma,bootstrap" alt="Database & GUI" />
+  </a>
+</p>
+
+<h3 align="left">Tools</h3>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=notion,vscode,github,git,discord,ps,ai" alt="Tools" />
   </a>
 </p>
 <br>
