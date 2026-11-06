@@ -18,7 +18,7 @@
 <br>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rexshimura/rexshimura/output/bonsai.svg" alt="Git Bonsai Tree" width="450" />
+  <img src="output/bonsai.gif" alt="Git Bonsai Tree" width="384" />
 </p>
 
 <h2 align="left">Architecture & Workflow</h2>
