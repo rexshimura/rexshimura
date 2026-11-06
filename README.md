@@ -17,6 +17,10 @@
 <br>
 <br>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rexshimura/rexshimura/output/bonsai.svg" alt="Git Bonsai Tree" width="450" />
+</p>
+
 <h2 align="left">Architecture & Workflow</h2>
 <p align="left">
  I specialize in the <strong>pre-development lifecycle</strong> and <strong>system logic</strong>:
