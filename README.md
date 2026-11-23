@@ -23,6 +23,10 @@
   <img src="output/bonsai.gif" alt="Git Bonsai Tree" width="320" />
 </div>
 
+<div align="center">
+  <img src="output/marquee.svg" alt="Skills & Focus Marquee" />
+</div>
+
 <table>
   <tr>
     <td width="50%" valign="top">
@@ -137,6 +141,14 @@
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/rexshimura/rexshimura/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+</div>
+
+<br />
+
+<div align="center">
+  <img width="32%" src="output/langtons-ant.svg" alt="Langton's Ant Simulator" />
+  <img width="32%" src="output/game-of-life.svg" alt="Conway's Game of Life" />
+  <img width="32%" src="output/brians-brain.svg" alt="Brian's Brain Automaton" />
 </div>
 
 <br />
