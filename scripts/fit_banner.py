@@ -20,14 +20,14 @@ def build_rounded_mask(w: int, h: int, radius: int) -> Image.Image:
 def build_bottom_fade(w: int, h: int) -> Image.Image:
     overlay = Image.new("RGBA", (w, h), (0, 0, 0, 0))
     draw = ImageDraw.Draw(overlay)
-    fade_start = int(h * 0.35)
-    fade_end = int(h * 0.96)
+    fade_start = int(h * 0.20)
+    fade_end = int(h * 0.90)
     for y in range(fade_start, h):
         if y >= fade_end:
             alpha = 255
         else:
             t = (y - fade_start) / (fade_end - fade_start)
-            alpha = int(255 * (t ** 1.4))
+            alpha = int(255 * (t ** 0.9))
         draw.line([(0, y), (w, y)], fill=(BG_COLOR[0], BG_COLOR[1], BG_COLOR[2], alpha))
     return overlay
 
