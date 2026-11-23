@@ -1,4 +1,6 @@
 <div align="center">
+  <img src="output/banner.gif" width="100%" alt="Rexshimura Banner" />
+  <br /><br />
   <a href="https://github.com/rexshimura">
     <img src="https://komarev.com/ghpvc/?username=rexshimura&label=Profile%20Views&color=27272a&style=flat-square" alt="Profile Views" />
   </a>
@@ -149,6 +151,12 @@
   <img width="32%" src="output/langtons-ant.svg" alt="Langton's Ant Simulator" />
   <img width="32%" src="output/game-of-life.svg" alt="Conway's Game of Life" />
   <img width="32%" src="output/brians-brain.svg" alt="Brian's Brain Automaton" />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="output/marquee-reverse.svg" alt="Skills & Focus Marquee" />
 </div>
 
 <br />

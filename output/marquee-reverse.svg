@@ -1,0 +1,89 @@
+<svg width="840" height="44" viewBox="0 0 840 44" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <clipPath id="box-clip">
+      <rect x="1" y="1" width="838" height="42" rx="7" />
+    </clipPath>
+    <linearGradient id="fade-left" x1="0" y1="0" x2="56" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#141414" stop-opacity="1" />
+      <stop offset="100%" stop-color="#141414" stop-opacity="0" />
+    </linearGradient>
+    <linearGradient id="fade-right" x1="784" y1="0" x2="840" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#141414" stop-opacity="0" />
+      <stop offset="100%" stop-color="#141414" stop-opacity="1" />
+    </linearGradient>
+  </defs>
+
+  <rect x="0.5" y="0.5" width="839" height="43" rx="8" fill="#141414" stroke="#27272A" />
+
+  <g clip-path="url(#box-clip)">
+    <g>
+      <animateTransform
+        attributeName="transform"
+        type="translate"
+        from="-1715 0"
+        to="0 0"
+        dur="32s"
+        repeatCount="indefinite"
+      />
+      <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11.5" font-weight="600" letter-spacing="0.8" fill="#E4E4E7" text-anchor="middle">
+        <circle cx="0" cy="22" r="2.2" fill="#71717A" />
+        <text x="70" y="26">ERP SYSTEMS</text>
+        <circle cx="140" cy="22" r="2.2" fill="#71717A" />
+        <text x="180" y="26">IOT</text>
+        <circle cx="220" cy="22" r="2.2" fill="#71717A" />
+        <text x="277" y="26">PLATFORM</text>
+        <circle cx="335" cy="22" r="2.2" fill="#71717A" />
+        <text x="392" y="26">WEBSITES</text>
+        <circle cx="450" cy="22" r="2.2" fill="#71717A" />
+        <text x="505" y="26">DESKTOP</text>
+        <circle cx="560" cy="22" r="2.2" fill="#71717A" />
+        <text x="617" y="26">SOFTWARE</text>
+        <circle cx="675" cy="22" r="2.2" fill="#71717A" />
+        <text x="725" y="26">MOBILE</text>
+        <circle cx="775" cy="22" r="2.2" fill="#71717A" />
+        <text x="857" y="26">CROSS-PLATFORM</text>
+        <circle cx="940" cy="22" r="2.2" fill="#71717A" />
+        <text x="1005" y="26">AI CHATBOT</text>
+        <circle cx="1070" cy="22" r="2.2" fill="#71717A" />
+        <text x="1135" y="26">ALGORITHMS</text>
+        <circle cx="1200" cy="22" r="2.2" fill="#71717A" />
+        <text x="1297" y="26">DATA VISUALIZATION</text>
+        <circle cx="1395" cy="22" r="2.2" fill="#71717A" />
+        <text x="1490" y="26">DATA PRESENTATION</text>
+        <circle cx="1585" cy="22" r="2.2" fill="#71717A" />
+        <text x="1650" y="26">DATA LOGIC</text>
+      </g>
+      <g transform="translate(1715, 0)" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11.5" font-weight="600" letter-spacing="0.8" fill="#E4E4E7" text-anchor="middle">
+        <circle cx="0" cy="22" r="2.2" fill="#71717A" />
+        <text x="70" y="26">ERP SYSTEMS</text>
+        <circle cx="140" cy="22" r="2.2" fill="#71717A" />
+        <text x="180" y="26">IOT</text>
+        <circle cx="220" cy="22" r="2.2" fill="#71717A" />
+        <text x="277" y="26">PLATFORM</text>
+        <circle cx="335" cy="22" r="2.2" fill="#71717A" />
+        <text x="392" y="26">WEBSITES</text>
+        <circle cx="450" cy="22" r="2.2" fill="#71717A" />
+        <text x="505" y="26">DESKTOP</text>
+        <circle cx="560" cy="22" r="2.2" fill="#71717A" />
+        <text x="617" y="26">SOFTWARE</text>
+        <circle cx="675" cy="22" r="2.2" fill="#71717A" />
+        <text x="725" y="26">MOBILE</text>
+        <circle cx="775" cy="22" r="2.2" fill="#71717A" />
+        <text x="857" y="26">CROSS-PLATFORM</text>
+        <circle cx="940" cy="22" r="2.2" fill="#71717A" />
+        <text x="1005" y="26">AI CHATBOT</text>
+        <circle cx="1070" cy="22" r="2.2" fill="#71717A" />
+        <text x="1135" y="26">ALGORITHMS</text>
+        <circle cx="1200" cy="22" r="2.2" fill="#71717A" />
+        <text x="1297" y="26">DATA VISUALIZATION</text>
+        <circle cx="1395" cy="22" r="2.2" fill="#71717A" />
+        <text x="1490" y="26">DATA PRESENTATION</text>
+        <circle cx="1585" cy="22" r="2.2" fill="#71717A" />
+        <text x="1650" y="26">DATA LOGIC</text>
+      </g>
+    </g>
+
+    <rect x="1" y="1" width="56" height="42" fill="url(#fade-left)" />
+    <rect x="783" y="1" width="56" height="42" fill="url(#fade-right)" />
+  </g>
+</svg>
