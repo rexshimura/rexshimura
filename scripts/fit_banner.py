@@ -4,7 +4,7 @@ from pathlib import Path
 from PIL import Image, ImageDraw, ImageSequence
 
 TARGET_W = 840
-TARGET_H = 220
+TARGET_H = 175
 RADIUS = 8
 BG_COLOR = (13, 17, 23)       # GitHub dark (#0d1117)
 BORDER_COLOR = (39, 39, 42)   # #27272A (matches marquee & simulator cards)
@@ -45,10 +45,10 @@ def process_banner(src: Path, dst: Path) -> None:
         if idx < 10:  # Trim first 1s (10 frames at 100ms)
             continue
         rgba = frame.convert("RGBA")
-        # Scale width to TARGET_W while keeping aspect ratio, then center-crop vertically
+        # Scale width to TARGET_W while keeping aspect ratio, then trim extra off the bottom
         scale_h = round(rgba.height * (TARGET_W / rgba.width))
         resized = rgba.resize((TARGET_W, scale_h), Image.Resampling.LANCZOS)
-        top = max(0, (scale_h - TARGET_H) // 2)
+        top = max(0, (scale_h - 220) // 2)
         cropped = resized.crop((0, top, TARGET_W, top + TARGET_H))
 
         # Apply full bottom fade + rounded corners over dark background (no hard bottom border)

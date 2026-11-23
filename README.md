@@ -46,15 +46,15 @@
       <p>Where I'm leveling up next across <strong>AI, Mobile &amp; Games</strong>:</p>
       <p>
         <img src="https://img.shields.io/badge/Game_Dev-Web_%2C_Desktop_%2C_Roblox_%26_Unity-27272a?style=flat-square&logo=unity&logoColor=white" alt="Game Dev" /><br />
-        <sub>Building interactive worlds and gameplay systems across engines and platforms.</sub>
+        Building interactive worlds and gameplay systems across engines and platforms.
       </p>
       <p>
         <img src="https://img.shields.io/badge/Mobile_Dev-Cross--Platform_%26_Native-27272a?style=flat-square&logo=android&logoColor=white" alt="Mobile Dev" /><br />
-        <sub>Expanding into mobile apps for Android &amp; iOS.</sub>
+        Expanding into mobile apps for Android &amp; iOS.
       </p>
       <p>
         <img src="https://img.shields.io/badge/AI_Engineering-LLMs_%2C_NLP_%26_Smart_Tools-27272a?style=flat-square&logo=openai&logoColor=white" alt="AI Engineering" /><br />
-        <sub>Integrating LLMs, tokenization, and AI workflows into practical applications.</sub>
+        Integrating LLMs, tokenization, and AI workflows into practical applications.
       </p>
     </td>
   </tr>
