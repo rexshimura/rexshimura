@@ -161,4 +161,10 @@
 
 <br />
 
+<div align="center">
+  <img src="output/banner-bottom.gif" width="100%" alt="Rexshimura Banner" />
+</div>
+
+<br />
+
 <h2 align="center"><img src="https://api.iconify.design/lucide/folder-git-2.svg?color=%23f4f4f5" width="20" height="20" alt="" /> Featured Projects</h2>
